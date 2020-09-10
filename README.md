@@ -1,5 +1,5 @@
 # CCNA2020_IPC
-Inter-Processes Communication in Same Host
+Inter-Processes Communication in the Same Host
 
 * Pipeline = Channel, 管線（半雙工單向通訊，亦有全雙工）
 
@@ -35,7 +35,7 @@ Inter-Processes Communication in Same Host
   
 ---------------------------------------------------------------------------------------------
 
-Inter-Processes Communication in Different Host
+Inter-Processes Communication in Different Hosts
 
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
