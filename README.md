@@ -32,6 +32,8 @@ Inter-Processes Communication in Same Host
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
   常發生於不同機器間的進程通訊。
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/server_in_python.py (Python)
 
 
 
