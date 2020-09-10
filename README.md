@@ -7,12 +7,12 @@ Inter-Processes Communication in Same Host
   
   特例：有名管道能允許非親緣關係的進程之間進行通訊。
 
-* Message Queue, 訊息佇列
-
-  
-
-* Signal & Shared Memory, 訊號與共用存儲
+* Semephore & Shared Memory, 信號與共用存儲
 
   傳遞訊號少，有限制量。
+  
+* Message Queue, 訊息佇列
 
 * Socket, 通訊端
+
+* Signal, 訊號
