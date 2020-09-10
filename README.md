@@ -17,4 +17,4 @@ Inter-Processes Communication in Same Host
 
 * Socket, 通訊端
 
-* Signal, 訊號
+* Signal, 訊號（Notify機制）
