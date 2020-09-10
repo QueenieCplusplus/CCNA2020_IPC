@@ -24,7 +24,7 @@ A: Inter-Processes Communication in the Same Host
   
   傳遞量少，有限制量。
  
-* 4. Message Queue, 訊息佇列 (尚有發布與訂閱的通訊方式)
+* 4. Message Queue, 訊息佇列 (非同步通訊，尚有發布與訂閱的通訊方式)
 
   無訊號與管線的缺點。
   
