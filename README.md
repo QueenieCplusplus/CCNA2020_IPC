@@ -28,6 +28,8 @@ Inter-Processes Communication in Same Host
   無訊號與管線的缺點。
   
   https://github.com/QueenieCplusplus/DataStructure_Queue (Before 2020)
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue#qmq-zero-mq (Java)
 
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
