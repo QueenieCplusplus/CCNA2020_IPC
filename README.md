@@ -23,13 +23,15 @@ Inter-Processes Communication in Same Host
   
   傳遞量少，有限制量。
   
-* Message Queue, 訊息佇列
+* Message Queue, 訊息佇列 (尚有發布與訂閱的通訊方式)
 
   無訊號與管線的缺點。
   
   https://github.com/QueenieCplusplus/DataStructure_Queue (Before 2020)
   
   https://github.com/QueenieCplusplus/DataStructure_Queue#qmq-zero-mq (Java)
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/PubSub.js (發布與訂閱)
 
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
