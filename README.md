@@ -25,7 +25,7 @@ Inter-Processes Communication in Same Host
 
   無訊號與管線的缺點。
 
-* Socket, 通訊端
+* Socket, 通訊端 (全雙工雙向通訊)
 
   常發生於不同機器間的進程通訊。
 
