@@ -22,7 +22,7 @@ Inter-Processes Communication in Same Host
   複製內存，由進程創建內存此共享內存，讓進程間相互共用此內存，藉由信號通知，防止資源上鎖。
   
   傳遞量少，有限制量。
-  
+ 
 * Message Queue, 訊息佇列 (尚有發布與訂閱的通訊方式)
 
   無訊號與管線的缺點。
@@ -32,6 +32,10 @@ Inter-Processes Communication in Same Host
   https://github.com/QueenieCplusplus/DataStructure_Queue#qmq-zero-mq (Java)
   
   https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/PubSub.js (發布與訂閱)
+  
+---------------------------------------------------------------------------------------------
+
+Inter-Processes Communication in Different Host
 
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
