@@ -6,6 +6,8 @@ Inter-Processes Communication in Same Host
   僅能在父子進程關係之間作用，且 Buffer 緩衝區大小受限制。
   
   特例：有名管道能允許非親緣關係的進程之間進行通訊。
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/pipeline.md (Before 2020)
 
 * Semphore（同步通訊）
 
