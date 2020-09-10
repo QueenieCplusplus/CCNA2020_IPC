@@ -27,4 +27,6 @@ Inter-Processes Communication in Same Host
 
 * Socket, 通訊端
 
+  常發生於不同機器間的進程通訊。
+
 
