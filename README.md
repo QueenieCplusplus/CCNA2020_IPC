@@ -24,6 +24,8 @@ Inter-Processes Communication in Same Host
 * Message Queue, 訊息佇列
 
   無訊號與管線的缺點。
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue (Before 2020)
 
 * Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
