@@ -19,7 +19,11 @@ Inter-Processes Communication in Same Host
 
   複製內存，由進程創建內存此共享內存，讓進程間相互共用此內存，藉由信號通知，防止資源上鎖。
   
+  傳遞量少，有限制量。
+  
 * Message Queue, 訊息佇列
+
+  無訊號與管線的缺點。
 
 * Socket, 通訊端
 
