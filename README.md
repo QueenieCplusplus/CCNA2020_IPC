@@ -9,7 +9,7 @@ Inter-Processes Communication in Same Host
   
   https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/pipeline.md (Before 2020)
 
-* Semphore（同步通訊）
+* Semophore（同步通訊）
 
   訊號量此通訊方式使用計時器的概念。
 
