@@ -7,7 +7,7 @@ Inter-Processes Communication in Same Host
   
   特例：有名管道能允許非親緣關係的進程之間進行通訊。
 
-* Semephore（同步通訊）
+* Semphore（同步通訊）
 
   訊號量此通訊方式使用計時器的概念。
 
