@@ -11,7 +11,7 @@ Inter-Processes Communication in Same Host
 
   傳遞訊號少，有限制量。
   
-  有上鎖機制。
+  有上鎖機制。（能管理不同進程或是同一進程不同線程同時訪問同一資源時造成的進奪。）
   
 * Message Queue, 訊息佇列
 
