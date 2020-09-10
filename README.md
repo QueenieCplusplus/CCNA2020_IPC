@@ -34,6 +34,8 @@ Inter-Processes Communication in Same Host
   常發生於不同機器間的進程通訊。
   
   https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/server_in_python.py (Python)
+  
+  https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/server_in_NodeJs.js (Nodejs)
 
 
 
