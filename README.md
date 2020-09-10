@@ -11,4 +11,6 @@ Inter-Processes Communication in Same Host
 
 * Signal & Shared Memory, 訊號與共用存儲
 
+  傳遞訊號少，有限制量。
+
 * Socket, 通訊端
