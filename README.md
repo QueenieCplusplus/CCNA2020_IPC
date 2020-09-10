@@ -7,4 +7,4 @@ Inter-Processes Communication in Same Host
 
 * Signal & Shared Memory, 訊號與共用存儲
 
-* Socket
+* Socket, 通訊端
