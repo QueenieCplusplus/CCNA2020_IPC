@@ -3,7 +3,7 @@ Inter-Processes Communication in Same Host
 
 * Pipeline, 管線（半雙工單向通訊）
 
-  僅能在父子進程關係之間作用，且緩衝區大小受限制。
+  僅能在父子進程關係之間作用，且 Buffer 緩衝區大小受限制。
   
   特例：有名管道能允許非親緣關係的進程之間進行通訊。
 
@@ -25,7 +25,7 @@ Inter-Processes Communication in Same Host
 
   無訊號與管線的缺點。
 
-* Socket, 通訊端 (全雙工雙向通訊)
+* Socket Stream, 通訊端串流 (全雙工雙向通訊)
 
   常發生於不同機器間的進程通訊。
 
