@@ -26,7 +26,7 @@ A: Inter-Processes Communication in the Same Host
  
 * 4. Message Queue, 訊息佇列 (非同步通訊，尚有發布與訂閱的通訊方式)
 
-  無訊號與管線的缺點。
+  無 訊號與管線的缺點。
   
   https://github.com/QueenieCplusplus/DataStructure_Queue (Before 2020)
   
