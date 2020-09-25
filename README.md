@@ -10,7 +10,7 @@ A: Inter-Processes Communication in the Same Host
   
   https://github.com/QueenieCplusplus/DataStructure_Queue/blob/master/pipeline.md (Before 2020)
 
-* 2. Semophore（同步通訊）
+* 2. Semophore 號誌（同步通訊）
 
   訊號量此通訊方式使用計時器的概念。
 
@@ -18,7 +18,7 @@ A: Inter-Processes Communication in the Same Host
   
   有上鎖機制。（能管理不同進程或是同一進程不同線程同時訪問同一資源時造成的進奪。）
   
-* 3. Signal + Shared Memory , 訊號（Notify機制）與共享內存
+* 3. Signal 訊號 + Shared Memory , 訊號（Notify機制）與共享內存
 
   複製內存，由進程創建內存此共享內存，讓進程間相互共用此內存，藉由信號通知，防止資源上鎖。
   
